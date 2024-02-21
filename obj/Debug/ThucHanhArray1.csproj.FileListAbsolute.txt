@@ -1,0 +1,7 @@
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\bin\Debug\ThucHanhArray1.exe.config
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\bin\Debug\ThucHanhArray1.exe
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\bin\Debug\ThucHanhArray1.pdb
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\obj\Debug\ThucHanhArray1.csproj.AssemblyReference.cache
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\obj\Debug\ThucHanhArray1.csproj.CoreCompileInputs.cache
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\obj\Debug\ThucHanhArray1.exe
+C:\Users\Astral\source\repos\ThucHanhArray1\ThucHanhArray1\obj\Debug\ThucHanhArray1.pdb
